@@ -1,0 +1,68 @@
+body{
+    background-image: url(https://cdn.theatlantic.com/thumbor/DlZkFI1OGmyLEdOybhaX_hG2JPI=/900x608/media/img/photo/2011/07/world-war-ii-conflict-spreads-around-the-globe/w01_07110168/original.jpg);
+    background-size: cover;
+}
+
+h1
+{
+    text-align: center;
+    font-family: Bahnschrift SemiBold Condensed;
+    color: red;
+    font-size: 80px;
+        
+}
+h2{
+    text-align: left;
+    font-family: Brush Script MT;
+    color: red;
+    font-size: 85px;
+}
+
+
+img
+{
+    border-radius: 9px;
+    border-color: whitesmoke;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-right: 5px;
+}
+.center
+{
+    text-align: center;
+    border-radius: 20px;
+}
+
+h4
+{
+    font-family: Bernard MT Condensed;
+    color: red;
+}
+h6{
+    font-family: Bernard MT Condensed;
+    color: red;
+}
+
+
+#Allied
+{
+    font-family: Bahnschrift SemiLight Condensed;
+    font-size: 64px;
+    text-align: left;
+}
+
+#Axis
+{
+    font-family: Bahnschrift SemiLight Condensed;
+    font-size: 64px;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
